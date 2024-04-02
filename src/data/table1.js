@@ -1,0 +1,53 @@
+const employee=[
+    {
+        id:'1',
+        name: 'John Doe',
+        department:'IT',
+        company:'Rapid Tech Serv.',
+        weekending:'10-Dec-2023',
+        totalhours:'40',
+        submittedat:'11-Jan-2024 01:01:AM',
+        status:'pending',
+    },
+    {
+        id:'2',
+        name: 'John Doe',
+        department:'IT',
+        company:'Rapid Tech Serv.',
+        weekending:'10-Dec-2023',
+        totalhours:'40',
+        submittedat:'11-Jan-2024 01:01:AM',
+        status:'rejected',
+    },
+    {
+        id:'3',
+        name: 'John Doe',
+        department:'IT',
+        company:'Rapid Tech Serv.',
+        weekending:'10-Dec-2023',
+        totalhours:'40',
+        submittedat:'11-Jan-2024 01:01:AM',
+        status:'rejected',
+    },
+    {
+        id:'4',
+        name: 'John Doe',
+        department:'IT',
+        company:'Rapid Tech Serv.',
+        weekending:'10-Dec-2023',
+        totalhours:'40',
+        submittedat:'11-Jan-2024 01:01:AM',
+        status:'pending',
+    },
+    {
+        id:'5',
+        name: 'John Doe',
+        department:'IT',
+        company:'Rapid Tech Serv.',
+        weekending:'10-Dec-2023',
+        totalhours:'40',
+        submittedat:'11-Jan-2024 01:01:AM',
+        status:'pending',
+    }
+]
+export {employee}
